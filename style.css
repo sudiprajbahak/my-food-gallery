@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    background-color: brown;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+table {
+    background-color: lightpink;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 10px;
+}
